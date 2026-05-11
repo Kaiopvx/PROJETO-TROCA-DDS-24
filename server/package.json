@@ -3,6 +3,7 @@
     "server": "nodemon ./server.js localhost 3000"
   },
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   },
   "devDependencies": {
